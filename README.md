@@ -2,6 +2,7 @@
 
 A modern, responsive workshop website for the **Scientific Understanding of Foundation Models** workshop at COLM 2026. Built with Next.js 14, Tailwind CSS, and TypeScript.
 
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) 18.17 or later
